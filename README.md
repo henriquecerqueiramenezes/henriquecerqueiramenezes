@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**henriquecerqueiramenezes/henriquecerqueiramenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Henrique Cerqueira!
 
-Here are some ideas to get you started:
+🎓 Statistics undergraduate at FCT UNESP, Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in using statistics and data analysis to understand real-world problems and turn data into knowledge.
+
+## 🔬 Research Interests
+
+- Statistical modeling and nonlinear regression
+- Spatial statistics and data analysis
+- Data science and statistical computing
+
+## 🛠️ Tools & Technologies
+
+- **R:** Intermediate
+- **Python:** Basic
+- **SQL:** Beginner
+- **Power BI:**  Intermediate
+- **Other interests:** Data visualization, GIS and reproducible research
+
+## 📊 Featured Projects
+
+### 📈 Nonlinear Regression Models
+Academic research on nonlinear regression models for studying animal and plant growth.
+
+*Topics:* Parameter estimation, growth models and model interpretation.
+
+## 📚 Currently Learning
+
+- SQL for statistical analysis
+- Python for data analysis
+- Statistical modeling and research methods
+
+## 📫 Connect with me
+
+- [LinkedIn]((https://www.linkedin.com/in/henrique-cerqueira-menezes/))
+- Email: henriquecerqueiramenezes@gmail.com
