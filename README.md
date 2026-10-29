@@ -35,4 +35,4 @@ Academic research on nonlinear regression models for studying animal and plant g
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/henrique-cerqueira-menezes/)
-- Email: henriquecerqueiramenezes@gmail.com
+- Email: henriquecerqueira6747@gmail.com
